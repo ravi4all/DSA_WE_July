@@ -1,0 +1,35 @@
+Bit Manipulation / Magic
+------------------------------------
+Bitwise AND - &
+- when both values are 1 then output is 1
+
+Bitwise OR - |
+- if any of the input is 1 then output is 1
+
+Bitwise XOR - ^
+- if inputs are different than 1 otherwise 0
+
+Bitwise NOT - ~
+- complements the bit
+
+Left Shift Operator - <<
+
+Right Shift Operator - >>
+================================
+1. check if a given number is power of 2 ?
+   solution : (x & x - 1) == 0 ? yes : no;
+2. check if kth bit is set ?
+    n = 5, k = 1
+3. Count Set Bits
+   n = 5
+   o/p : 2
+  Optimized Algo - Brian Kerningam's Algorithm
+
+
+
+
+
+
+
+
+
